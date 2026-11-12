@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Khalid Oum 👋
 
-<!--
-**khalidOumou/khalidOumou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Mobile Development & Backend Engineering
 
-Here are some ideas to get you started:
+I focus on designing and building reliable software products, from mobile applications to backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to develop maintainable, scalable, and practical solutions that solve real-world problems.
+
+### Core Focus
+
+- Mobile Application Development
+- Backend Development & REST APIs
+- Database Design
+- Software Architecture & Design Patterns
+- Application Performance and Reliability
+
+### Technologies
+
+- **Mobile:** Flutter, Dart
+- **Backend:** Node.js, NestJS
+- **Database:** PostgreSQL, SQL
+- **Tools:** Git, GitHub, Docker
+
+### Current Focus
+
+Building complete mobile applications integrated with robust backend systems, while continuously improving my software engineering fundamentals.
+
+### Connect With Me
+
+- LinkedIn: [Khalid Oum](https://www.linkedin.com/in/khalid-oum/)
+- Email: khalid.oum.tech@gmail.com
+
+---
+
+*Building software with purpose.*
