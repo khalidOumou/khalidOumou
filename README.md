@@ -1,48 +1,91 @@
-## Hey there 👋 — welcome to my GitHub!
+ 
+<div align="center">
 
-I'm **Khalid**, a **Full-Stack Software Builder** passionate about creating robust applications from **Web to Mobile**, with solid **Backend & CI/CD skills**. 🚀
+# Hi, I'm Khalid Oumou 👋
 
+### Software Engineer
+**Mobile Application Engineering · Backend Systems · UI/UX Design**
 
+I’m a Software Engineer passionate about designing and building complete software products — from understanding an idea and planning its architecture to crafting intuitive user interfaces and developing reliable backend systems.
 
----
+My focus is on creating practical, maintainable, and scalable mobile applications that solve real-world problems.
 
-### 🔭 What I do
-- Build **Web Applications** using **Next.js** 🌐
-- Develop **Mobile Apps** with **Flutter** 📱
-- Implement **Backend Services** using **Node.js, Nest.js, or Express** 🛠️
-- Setup **CI/CD pipelines** for automated testing & deployment ⚡
-
----
-
-### 💻 Skills & Tech Stack
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=flat-square&logo=tailwind-css)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
-![REST API](https://img.shields.io/badge/REST-API-00AAFF?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FDF7E3?style=flat-square&logo=firebase)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-FFCA28?style=flat-square&logo=fastlane)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white)
+</div>
 
 ---
 
-### ⚡ Fun fact
-I love turning **complex ideas into simple, scalable software solutions**. 💡
+## 🚀 What I Do
+
+**📱 Mobile Application Development**
+- Building cross-platform mobile applications using Flutter and Dart.
+- Creating clean, responsive, and user-friendly interfaces.
+- Developing maintainable application architecture and reusable components.
+
+**⚙️ Backend Development**
+- Designing and developing RESTful APIs.
+- Building backend services and business logic.
+- Working with databases, authentication, and data management.
+
+**🎨 UI/UX Design & Product Planning**
+- Turning ideas into structured product concepts.
+- Planning application features, user flows, and system structure.
+- Designing intuitive UI/UX experiences and interactive prototypes.
+- Translating designs into functional applications.
+
+**🔗 End-to-End Product Development**
+
+From initial idea and planning to UI/UX design, mobile development, backend integration, testing, and deployment.
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Mobile Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter" />
+</p>
+
+**Backend & Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres" />
+</p>
+
+**Design & Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,docker,linux,vscode" />
+</p>
+
+---
+
+## 💡 Fun Fact
+
+I love turning complex ideas into simple, scalable software solutions. 💡
+
+I believe great software is not just about writing code — it's about understanding problems, designing thoughtful solutions, and building products that make a difference.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to discussing software engineering, mobile development, product ideas, and potential collaborations.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://YOUR-WEBSITE.com">
+    <img src="https://img.shields.io/badge/Website-Visit-2E5939?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+
+**Thanks for visiting my profile! ✨**
+
+</div>
