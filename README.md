@@ -1,4 +1,4 @@
-# Hi, I'm Khalid Oum 👋
+# Hi, I'm Khalid Oumou 👋
 
 ### Software Engineer | Mobile Development & Backend Engineering
 
