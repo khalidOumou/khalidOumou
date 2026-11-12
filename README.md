@@ -93,14 +93,6 @@ From idea and product planning to UI/UX design, architecture, development, testi
 
 ---
 
-## 💡 Fun Fact
-
-I love turning complex ideas into simple, scalable software solutions. 💡
-
-I believe great software is not just about writing code — it's about understanding problems, designing thoughtful solutions, and building products that make a difference.
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to discussing software engineering, mobile development, backend systems, product design, and potential collaborations.
