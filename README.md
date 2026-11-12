@@ -1,14 +1,16 @@
  
-<div align="center">
+ <div align="center">
 
 # Hi, I'm Khalid Oumou 👋
 
 ### Software Engineer
-**Mobile Application Engineering · Backend Systems · UI/UX Design**
+**Mobile Application Engineering · Backend Systems · UI/UX & Product Design**
 
-I’m a Software Engineer passionate about designing and building complete software products — from understanding an idea and planning its architecture to crafting intuitive user interfaces and developing reliable backend systems.
+I’m a Software Engineer passionate about transforming ideas into complete software products.
 
-My focus is on creating practical, maintainable, and scalable mobile applications that solve real-world problems.
+I enjoy working across the entire product development lifecycle — from idea validation and system planning to UI/UX design, mobile development, backend engineering, and deployment.
+
+My goal is to build practical, scalable, and maintainable software solutions that solve real-world problems.
 
 </div>
 
@@ -18,44 +20,65 @@ My focus is on creating practical, maintainable, and scalable mobile application
 
 **📱 Mobile Application Development**
 - Building cross-platform mobile applications using Flutter and Dart.
-- Creating clean, responsive, and user-friendly interfaces.
-- Developing maintainable application architecture and reusable components.
+- Developing responsive, intuitive, and user-friendly interfaces.
+- Structuring applications with clean architecture and reusable components.
+- Integrating mobile applications with backend services and APIs.
 
 **⚙️ Backend Development**
 - Designing and developing RESTful APIs.
 - Building backend services and business logic.
-- Working with databases, authentication, and data management.
+- Implementing authentication, authorization, and data management.
+- Designing and integrating SQL and NoSQL databases.
 
-**🎨 UI/UX Design & Product Planning**
-- Turning ideas into structured product concepts.
-- Planning application features, user flows, and system structure.
-- Designing intuitive UI/UX experiences and interactive prototypes.
-- Translating designs into functional applications.
+**🎨 UI/UX & Graphic Design**
+- Transforming ideas into structured product concepts.
+- Planning application features, user journeys, and wireframes.
+- Designing intuitive interfaces and interactive prototypes.
+- Creating visual assets and brand elements using Adobe Illustrator.
+- Translating design concepts into functional applications.
 
 **🔗 End-to-End Product Development**
 
-From initial idea and planning to UI/UX design, mobile development, backend integration, testing, and deployment.
+From idea and product planning to UI/UX design, architecture, development, testing, backend integration, and deployment.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-**Mobile Development**
+**📱 Mobile Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=dart,flutter" />
 </p>
 
-**Backend & Database**
+**⚙️ Backend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs" />
 </p>
 
-**Design & Development Tools**
+**🗄️ Databases & Backend Services**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase" />
+</p>
+
+**🚀 DevOps & Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions" />
+</p>
+
+**🎨 UI/UX & Graphic Design**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ai" />
+</p>
+
+**💻 Development Environment**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ---
@@ -70,7 +93,7 @@ I believe great software is not just about writing code — it's about understan
 
 ## 🤝 Let's Connect
 
-I'm always open to discussing software engineering, mobile development, product ideas, and potential collaborations.
+I'm always open to discussing software engineering, mobile development, backend systems, product design, and potential collaborations.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
