@@ -1,5 +1,5 @@
  
- <div align="center">
+ <div >
 
 # Hi, I'm Khalid Oumou 👋
 
